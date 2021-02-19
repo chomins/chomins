@@ -2,7 +2,9 @@
 
 [![chomins's github stats](https://github-readme-stats.vercel.app/api?username=chomins)](https://github.com/anuraghazra/github-readme-stats)
 
-[![chomins's lang](github-readme-stats.vercel.app/api/top-langs/?username=chomins&langs_count=8)]
+
+[![chomins's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chomins&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
