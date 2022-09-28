@@ -9,6 +9,8 @@
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=chomins" width="400"/>
 </a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cms4317)](https://solved.ac/cms4317)
+
 <!--
 **chomins/chomins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
